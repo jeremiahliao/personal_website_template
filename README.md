@@ -1,5 +1,6 @@
 # Personal Website Template
-This is a personal website built using the Hack4Impact Starter Pack!
+
+NOTE: This template contains MINIMAL CSS Styling. This only lays out a basic website framework.
 
 Key info: 
  - 
